@@ -1,0 +1,50 @@
+body{
+    background-color: blue;
+    margin-left: 10rem;
+}
+
+.login{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+
+}
+
+
+
+.login button{
+    background-color: blue;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.4rem;
+    width: 200px; ;
+}
+
+.mantik{
+    background-color: orangered;
+    width: 500px;
+}
+
+.all{
+    display: flex;
+    padding: 7rem;
+}
+
+.mantik h3{
+    text-align: justify;
+    color: white;
+    padding: 3rem;
+}
+
+.mantik h1{
+text-align: center;
+color: white;
+}
+
+
+.mantik p{
+    text-align: justify;
+    color: white;
+    padding: 4rem;
+}
+
